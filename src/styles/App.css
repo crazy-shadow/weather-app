@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+.weather-form {
+  margin: 20px;
+}
+
+.weather-form input {
+  padding: 10px;
+  font-size: 16px;
+}
+
+.weather-form button {
+  padding: 10px 20px;
+  font-size: 16px;
+  margin-left: 10px;
+}
+
+.weather-display {
+  margin-top: 20px;
+}
+
+.weather-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
